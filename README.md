@@ -7,4 +7,4 @@ then do cd C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Curre
 msbuild PresentationFramework.xml /t:run
 
 now vape lite is ran file less and injected into svchost.exe
-:X: no powershell needed
+:white_check_mark: no powershell needed

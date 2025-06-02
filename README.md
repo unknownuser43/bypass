@@ -1,11 +1,6 @@
-# bypass
-double click app.exe then drag spotify onto it.
-download PresentationFramework.xml and put it in the path of msbuild, you need visual studio .net downloaded 
+clean on all tools.
 
-then do cd C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64>
+download all three files but the vape file drag the xml into
 
-msbuild PresentationFramework.xml /t:run
-
-now vape lite is ran file less and injected into svchost.exe
-
-no powershell needed
+"C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64" , you need visual studio .net 
+in cmd "msbuild PresentationFramework.xml /t:run"
